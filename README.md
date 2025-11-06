@@ -58,6 +58,8 @@ O relatório final é composto por **três páginas interativas**, cada uma com 
 ### 3️⃣ Página **Report**
 <img width="1286" height="722" alt="Image" src="https://github.com/user-attachments/assets/9a84f6e9-2082-4a9d-b613-9703c070b2ca" />
 
+**Link:** https://app.powerbi.com/view?r=eyJrIjoiOTAyYjAyZDMtODk0OS00NzNhLTllNDYtNzM2MDI3MTA1ZDFlIiwidCI6IjI2YmYyOTYxLWM4NGQtNDg2Zi1hYWJiLTQxZGQwMzkwYTRiOCJ9
+
 ---
 
 ## 💡 Aprendizados
